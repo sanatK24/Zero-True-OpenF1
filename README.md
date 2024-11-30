@@ -23,4 +23,9 @@ Feel free to explore the data and use it for further analysis or development.
 
 #AI #DataAnalysis #Formula1 #ZeroTrue #Hackathon #Python #RAITACM #RAITACMSIGAI
 
-[certificate][images/certificate.jpg]
+![Certificate](images/certificate.jpg)
+![OpenF1](images/openf1.jpg)
+![Speed Analysis](images/speed analysis.jpg)
+![Zero True PG 1](images/zero-true pg 1.jpg)
+![Zero True PG 2](images/zero-true pg 2.jpg)
+
