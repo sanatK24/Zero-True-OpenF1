@@ -22,3 +22,5 @@ A huge thanks to the organizers and everyone involved! If you're interested, che
 Feel free to explore the data and use it for further analysis or development.
 
 #AI #DataAnalysis #Formula1 #ZeroTrue #Hackathon #Python #RAITACM #RAITACMSIGAI
+
+[certificate][images/certificate.jpg]
