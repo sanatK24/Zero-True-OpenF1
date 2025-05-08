@@ -21,11 +21,14 @@ A huge thanks to the organizers and everyone involved! If you're interested, che
 
 Feel free to explore the data and use it for further analysis or development.
 
+![certificate](https://github.com/user-attachments/assets/3be88236-988f-4bd9-bc4d-38539d9b6fff)
+![zero-truepg1](https://github.com/user-attachments/assets/a3b26260-df7e-464f-af9f-3663e20689d5)
+![zero-truepg2](https://github.com/user-attachments/assets/a03ec9e1-e84e-4483-9fcc-3c9521e256b2)
+![openf1](https://github.com/user-attachments/assets/f8fe73cb-557c-4bca-8ee1-b087cb839e08)
+
+
+
 #AI #DataAnalysis #Formula1 #ZeroTrue #Hackathon #Python #RAITACM #RAITACMSIGAI
 
-![Certificate](images/certificate.jpg)
-![OpenF1](images/openf1.jpg)
-![Speed Analysis](images/speedanalysis.jpg)
-![Zero True PG 1](images/zero-truepg1.jpg)
-![Zero True PG 2](images/zero-truepg2.jpg)
+
 
