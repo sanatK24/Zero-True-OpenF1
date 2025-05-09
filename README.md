@@ -1,10 +1,10 @@
 # Zero-True OpenF1 Repository
 
-🚀 **Had an amazing experience participating in the KAINOS: AI National Hackathon** from **Sept 26-29, 2024**, hosted by **ACM SIGAI** in collaboration with **Zero True**.
+**Had an amazing experience participating in the KAINOS: AI National Hackathon** from **Sept 26-29, 2024**, hosted by **ACM SIGAI** in collaboration with **Zero True**.
 
 During the hackathon, I worked on analyzing Formula 1 data using the **OpenF1 API**, focusing on performance metrics from teams like **Red Bull Racing** and others. I extracted key data such as lap times, pit stops, weather conditions, and more. Using **Zero True’s Code Editor**, I cleaned and processed the data for deeper insights.
 
-It was both fun and challenging to dive into this real-time data and uncover insights that could influence race strategies! 🏎️📊
+It was both fun and challenging to dive into this real-time data and uncover insights that could influence race strategies!
 
 ### Key Contributions:
 - **Max Speed Analysis**: I created a max speed analysis chart to visualize the performance of various teams.
